@@ -1,0 +1,28 @@
+.postimgs {
+    max-height: 70%;
+    max-width: 70%;
+}
+.logos {
+    max-width: 30px;
+    margin-right: 5px;
+}
+.comment-section {
+    width: fit-content;
+    block-size: fit-content;
+    box-shadow: 3px 2px yellowgreen;
+    background-color: rgba(114, 207, 104, 0.572);
+    border: 3px solid rgba(175, 228, 235, 0.901);
+    margin: 5px;
+    border-radius: 10px;
+    border-block:inherit ;
+}
+.titles {
+    display: flex;
+    flex-direction: row;
+    max-width: 50%;
+
+    justify-content: space-between;
+}
+.titlenames {
+    background-color: darkcyan;
+}

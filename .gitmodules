@@ -1,0 +1,6 @@
+[submodule "Dogsta"]
+	path = Dogsta
+	url = https://github.com/hpatrikrobert/Dogsta.git
+[submodule "HEAD"]
+	path = HEAD
+	url = https://github.com/hpatrikrobert/Dogsta.git

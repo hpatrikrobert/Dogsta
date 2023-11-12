@@ -1,0 +1,20 @@
+html {
+  background-color: black;
+  color:white;
+  height:fit-content;
+}
+
+.App {
+  display: flex;
+  flex-direction: row;
+}
+#Sidenav {
+  display: flex;
+  width: 20%;
+}
+#Dragdrop {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+

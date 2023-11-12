@@ -1,0 +1,8 @@
+.postimgs {
+    max-width: 300px;
+}
+.containers {
+    height: 100%;
+    position: fixed;
+    top: 0;
+}
